@@ -1,0 +1,164 @@
+
+<!DOCTYPE html>
+<html lang="zh">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=56561&amp;path=livereload" data-no-instant defer></script>
+  
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>第一篇技术思考 | 小哈的博客</title>
+    <meta name="description"
+        content="简介 这是技术思考部分的第一篇文章。我们将在这里讨论各种技术话题。
+预计阅读时间 这篇文章大约有200个字，需要约1分钟阅读时间。">
+    <link rel="canonical" href="http://localhost:56561/zh/posts/technical-thoughts/first-post/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+    
+    <link rel="stylesheet" href="http://localhost:56561/scss/style.min.aa7209164f013c6883aa54384ea45a46e582eacf9a17e9565badebd557dd1059.css">
+
+    <meta property="og:url" content="http://localhost:56561/zh/posts/technical-thoughts/first-post/">
+  <meta property="og:site_name" content="小哈的博客">
+  <meta property="og:title" content="第一篇技术思考">
+  <meta property="og:description" content="简介 这是技术思考部分的第一篇文章。我们将在这里讨论各种技术话题。
+预计阅读时间 这篇文章大约有200个字，需要约1分钟阅读时间。">
+  <meta property="og:locale" content="zh">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-07-21T12:00:00+00:00">
+    <meta property="article:modified_time" content="2024-07-21T12:00:00+00:00">
+
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="第一篇技术思考">
+  <meta name="twitter:description" content="简介 这是技术思考部分的第一篇文章。我们将在这里讨论各种技术话题。
+预计阅读时间 这篇文章大约有200个字，需要约1分钟阅读时间。">
+
+    
+
+</head>
+</head>
+<body>
+  <nav class="navbar is-light" role="navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" title="home" class="navbar-item">
+                <span class="logo">
+                    <h1>小哈的博客</h1>
+                </span>
+            </a>
+
+            
+            <a id="theme-toggle" class="theme-toggle" href="#">
+                <img src="http://localhost:56561/svg/sun.svg" alt="sun icon" class="theme-icon" />
+            </a>
+
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                
+                <a href="/zh/categories/interview-preparation/" class="navbar-item">面试准备</a>
+                
+                <a href="/zh/categories/bug-fixes/" class="navbar-item">Bug 修复</a>
+                
+                <a href="/zh/categories/technical-thoughts/" class="navbar-item">技术思考</a>
+                
+                <a href="/en/" class="navbar-item">English</a>
+                
+            </div>
+
+        </div>
+        <div class="search">
+            <div id="fastSearch">
+                <input id="searchInput" tabindex="0" placeholder="Search..">
+                <ul id="searchResults">
+
+                </ul>
+            </div>
+            <a id="search-btn" style="display: inline-block;" href="# ">
+                <div class="icon-search"><svg class="search-svg" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></div>
+            </a>
+        </div>
+
+        <script src="/js/fuse.min.js"></script> 
+        <script src="/js/fastsearch.js"></script>
+
+    </div>
+</nav>
+
+<script>
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        var burger = document.querySelector('.navbar-burger');
+        burger.addEventListener('click', function() {
+            burger.classList.toggle('is-active');
+            document.querySelector('.navbar-menu').classList.toggle('is-active');
+        });
+    });
+
+    
+    function setTheme(theme) {
+        let body = document.body;
+        let themeIcon = document.querySelector(".theme-icon");
+        if (theme === "dark") {
+            body.classList.add("dark-mode");
+            themeIcon.src = "http:\/\/localhost:56561\/svg/moon.svg";
+            themeIcon.alt = "moon icon";
+        } else {
+            body.classList.remove("dark-mode");
+            themeIcon.src = "http:\/\/localhost:56561\/svg/sun.svg";
+            themeIcon.alt = "sun icon";
+        }
+        
+        localStorage.setItem("theme", theme);
+    }
+
+    
+    let theme = localStorage.getItem("theme") || "light";
+    const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (isDarkMode) {
+        
+        setTheme('dark');
+
+    } else {
+        
+        setTheme('light');
+    }
+    setTheme(theme);
+
+    
+    document.getElementById("theme-toggle").addEventListener("click", function() {
+        if (theme === "light") {
+            theme = "dark";
+        } else {
+            theme = "light";
+        }
+        setTheme(theme);
+    });
+
+
+
+</script>
+
+</header>
+  <main>
+    
+  </main>
+  <footer class="footer">
+    <div class="content has-text-centered">
+    <span>&copy; 2024 <a href="http://localhost:56561/zh/">小哈的博客</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" target="_blank">Hugo</a> &
+        <a href="https://github.com/hotjuicew/hugo-JuiceBar" target="_blank">JuiceBar</a>
+    </span>
+    </div>
+  </footer>
+</body>
+</html>
+
+
