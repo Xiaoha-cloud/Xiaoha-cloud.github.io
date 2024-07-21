@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 小哈的博客</title>
-    <link>https://Xiaoha-cloud.github.io/zh/posts/</link>
+    <link>http://localhost:56561/zh/posts/</link>
     <description>Recent content in Posts on 小哈的博客</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 21 Jul 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Xiaoha-cloud.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56561/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇 Bug 修复文章</title>
-      <link>https://Xiaoha-cloud.github.io/zh/posts/bug-fixes/my-first-post/</link>
+      <link>http://localhost:56561/zh/posts/bug-fixes/my-first-post/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>https://Xiaoha-cloud.github.io/zh/posts/bug-fixes/my-first-post/</guid>
+      <guid>http://localhost:56561/zh/posts/bug-fixes/my-first-post/</guid>
       <description>简介 这是 Bug 修复部分的第一篇文章。我们将在这里讨论如何修复常见的 Bug。&#xA;预计阅读时间 这篇文章大约有200个字，需要约1分钟阅读时间。</description>
     </item>
     <item>
       <title>第一篇技术思考</title>
-      <link>https://Xiaoha-cloud.github.io/zh/posts/technical-thoughts/first-post/</link>
+      <link>http://localhost:56561/zh/posts/technical-thoughts/first-post/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>https://Xiaoha-cloud.github.io/zh/posts/technical-thoughts/first-post/</guid>
+      <guid>http://localhost:56561/zh/posts/technical-thoughts/first-post/</guid>
       <description>简介 这是技术思考部分的第一篇文章。我们将在这里讨论各种技术话题。&#xA;预计阅读时间 这篇文章大约有200个字，需要约1分钟阅读时间。</description>
     </item>
     <item>
       <title>第一篇面试准备文章</title>
-      <link>https://Xiaoha-cloud.github.io/zh/posts/interview-preparation/my-first-post/</link>
+      <link>http://localhost:56561/zh/posts/interview-preparation/my-first-post/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>https://Xiaoha-cloud.github.io/zh/posts/interview-preparation/my-first-post/</guid>
+      <guid>http://localhost:56561/zh/posts/interview-preparation/my-first-post/</guid>
       <description>简介 这是面试准备部分的第一篇文章。我们将在这里讨论各种准备面试的技巧和窍门。&#xA;预计阅读时间 这篇文章大约有200个字，需要约1分钟阅读时间。</description>
     </item>
   </channel>

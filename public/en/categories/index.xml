@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Xiaoha&#39;s Blog</title>
-    <link>https://Xiaoha-cloud.github.io/en/categories/</link>
+    <link>http://localhost:56561/en/categories/</link>
     <description>Recent content in Categories on Xiaoha&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jul 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Xiaoha-cloud.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56561/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bug Fixes</title>
-      <link>https://Xiaoha-cloud.github.io/en/categories/bug-fixes/</link>
+      <link>http://localhost:56561/en/categories/bug-fixes/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>https://Xiaoha-cloud.github.io/en/categories/bug-fixes/</guid>
+      <guid>http://localhost:56561/en/categories/bug-fixes/</guid>
       <description>Bug Fixes Welcome to the Bug Fixes section. Here you will find articles on how to fix common bugs.&#xA;Articles First Bug Fix </description>
     </item>
     <item>
       <title>Interview Preparation</title>
-      <link>https://Xiaoha-cloud.github.io/en/categories/interview-preparation/</link>
+      <link>http://localhost:56561/en/categories/interview-preparation/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>https://Xiaoha-cloud.github.io/en/categories/interview-preparation/</guid>
+      <guid>http://localhost:56561/en/categories/interview-preparation/</guid>
       <description>Interview Preparation Welcome to the Interview Preparation section. Here you will find articles on how to prepare for interviews.&#xA;Articles First Interview Preparation Post </description>
     </item>
     <item>
       <title>Technical Thoughts</title>
-      <link>https://Xiaoha-cloud.github.io/en/categories/technical-thoughts/</link>
+      <link>http://localhost:56561/en/categories/technical-thoughts/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>https://Xiaoha-cloud.github.io/en/categories/technical-thoughts/</guid>
+      <guid>http://localhost:56561/en/categories/technical-thoughts/</guid>
       <description>Technical Thoughts Welcome to the Technical Thoughts section. Here you will find articles on various technical topics.&#xA;Articles First Technical Thought </description>
     </item>
   </channel>
