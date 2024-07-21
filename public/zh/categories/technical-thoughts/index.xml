@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技术思考 on 小哈的博客</title>
-    <link>http://localhost:56561/zh/categories/technical-thoughts/</link>
+    <link>https://Xiaoha-cloud.github.io/zh/categories/technical-thoughts/</link>
     <description>Recent content in 技术思考 on 小哈的博客</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="http://localhost:56561/zh/categories/technical-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Xiaoha-cloud.github.io/zh/categories/technical-thoughts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

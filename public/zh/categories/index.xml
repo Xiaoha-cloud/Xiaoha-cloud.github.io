@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 小哈的博客</title>
-    <link>http://localhost:56561/zh/categories/</link>
+    <link>https://Xiaoha-cloud.github.io/zh/categories/</link>
     <description>Recent content in Categories on 小哈的博客</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 21 Jul 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:56561/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Xiaoha-cloud.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bug 修复</title>
-      <link>http://localhost:56561/zh/categories/bug-%E4%BF%AE%E5%A4%8D/</link>
+      <link>https://Xiaoha-cloud.github.io/zh/categories/bug-%E4%BF%AE%E5%A4%8D/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:56561/zh/categories/bug-%E4%BF%AE%E5%A4%8D/</guid>
+      <guid>https://Xiaoha-cloud.github.io/zh/categories/bug-%E4%BF%AE%E5%A4%8D/</guid>
       <description></description>
     </item>
     <item>
       <title>技术思考</title>
-      <link>http://localhost:56561/zh/categories/%E6%8A%80%E6%9C%AF%E6%80%9D%E8%80%83/</link>
+      <link>https://Xiaoha-cloud.github.io/zh/categories/%E6%8A%80%E6%9C%AF%E6%80%9D%E8%80%83/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:56561/zh/categories/%E6%8A%80%E6%9C%AF%E6%80%9D%E8%80%83/</guid>
+      <guid>https://Xiaoha-cloud.github.io/zh/categories/%E6%8A%80%E6%9C%AF%E6%80%9D%E8%80%83/</guid>
       <description></description>
     </item>
     <item>
       <title>面试准备</title>
-      <link>http://localhost:56561/zh/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/</link>
+      <link>https://Xiaoha-cloud.github.io/zh/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:56561/zh/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/</guid>
+      <guid>https://Xiaoha-cloud.github.io/zh/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/</guid>
       <description></description>
     </item>
     <item>
       <title>Bug 修复</title>
-      <link>http://localhost:56561/zh/categories/bug-fixes/</link>
+      <link>https://Xiaoha-cloud.github.io/zh/categories/bug-fixes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56561/zh/categories/bug-fixes/</guid>
+      <guid>https://Xiaoha-cloud.github.io/zh/categories/bug-fixes/</guid>
       <description>Bug 修复 欢迎来到 Bug 修复部分。这里你会发现关于如何修复常见 Bug 的文章。&#xA;文章 第一篇 Bug 修复文章 </description>
     </item>
     <item>
       <title>技术思考</title>
-      <link>http://localhost:56561/zh/categories/technical-thoughts/</link>
+      <link>https://Xiaoha-cloud.github.io/zh/categories/technical-thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56561/zh/categories/technical-thoughts/</guid>
+      <guid>https://Xiaoha-cloud.github.io/zh/categories/technical-thoughts/</guid>
       <description>技术思考 欢迎来到技术思考部分。这里你会发现各种技术话题的文章。&#xA;文章 第一篇技术思考 </description>
     </item>
     <item>
       <title>面试准备</title>
-      <link>http://localhost:56561/zh/categories/interview-preparation/</link>
+      <link>https://Xiaoha-cloud.github.io/zh/categories/interview-preparation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56561/zh/categories/interview-preparation/</guid>
+      <guid>https://Xiaoha-cloud.github.io/zh/categories/interview-preparation/</guid>
       <description>面试准备 欢迎来到面试准备部分。这里你会发现关于如何准备面试的文章。&#xA;文章 第一篇面试准备文章 </description>
     </item>
   </channel>
