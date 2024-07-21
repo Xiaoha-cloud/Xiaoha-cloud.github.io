@@ -1,0 +1,110 @@
+baseURL = 'https://Xiaoha-cloud.github.io/'
+languageCode = 'en-us'
+theme = "JuiceBar"
+title = "Xiaoha's Blog"
+
+# Default Language settings
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Xiaoha's Blog"
+    weight = 1
+    contentDir = "content/en"
+    [languages.en.params]
+      author = "Xiaoha"
+      description = "My site description"
+      authorImage = "/images/profile.jpg"
+      paginate = 5
+      Title = "Xiaoha's Blog"
+      content = "I'm Xiaoha, nice to meet you(ˊ˘ˋ*)♡"
+      imageUrl = "/images/avatar.jpg"
+
+    [[languages.en.params.social]]
+      name = "Github"
+      url = "https://github.com/Xiaoha-cloud"
+    [[languages.en.params.social]]
+      name = "email"
+      url = "mailto:infojemi4@gmail.com"
+    [[languages.en.params.social]]
+      name = "LinkedIn"
+      url = "https://www.linkedin.com/in/jiahong-lin-8b74462b0/"
+
+    [[languages.en.menu.main]]
+      name = "Interview Preparation"
+      url = "/en/categories/interview-preparation/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Bug Fixes"
+      url = "/en/categories/bug-fixes/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Technical Thoughts"
+      url = "/en/categories/technical-thoughts/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "English"
+      url = "/en/"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "简体中文"
+      url = "/zh/"
+      weight = 5
+
+  [languages.zh]
+    languageName = "简体中文"
+    title = "小哈的博客"
+    weight = 2
+    contentDir = "content/zh"
+    [languages.zh.params]
+      author = "小哈"
+      description = "我的网站描述"
+      authorImage = "/images/profile.jpg"
+      paginate = 5
+      Title = "小哈的博客"
+      content = "我是小哈，很高兴见到你(ˊ˘ˋ*)♡"
+      imageUrl = "/images/avatar.jpg"
+
+    [[languages.zh.params.social]]
+      name = "Github"
+      url = "https://github.com/Xiaoha-cloud"
+    [[languages.zh.params.social]]
+      name = "email"
+      url = "mailto:infojemi4@gmail.com"
+    [[languages.zh.params.social]]
+      name = "LinkedIn"
+      url = "https://www.linkedin.com/in/jiahong-lin-8b74462b0/"
+
+    [[languages.zh.menu.main]]
+      name = "面试准备"
+      url = "/zh/categories/interview-preparation/"
+      weight = 1
+    [[languages.zh.menu.main]]
+      name = "Bug 修复"
+      url = "/zh/categories/bug-fixes/"
+      weight = 2
+    [[languages.zh.menu.main]]
+      name = "技术思考"
+      url = "/zh/categories/technical-thoughts/"
+      weight = 3
+    [[languages.zh.menu.main]]
+      name = "English"
+      url = "/en/"
+      weight = 4
+    [[languages.zh.menu.main]]
+      name = "简体中文"
+      url = "/zh/"
+      weight = 5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  googleAnalytics = ""
+  RSSLink = "https://Xiaoha-cloud.github.io/index.xml"
